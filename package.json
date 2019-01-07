@@ -1,0 +1,11 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for Grand Chase Dimensional Chaser",
+  "main": "bot.js",
+  "author": "Keenan Reed - Riddokun",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
